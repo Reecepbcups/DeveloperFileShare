@@ -1,5 +1,6 @@
-# DeveloperFileShare
+# FileShare
 A local way to share your files between 2 computers. Fast and seemless
+(For remote solutions, just use SCP)
 
 
 Run the program, then type one of the options. 
